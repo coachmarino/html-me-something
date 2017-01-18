@@ -1,0 +1,71 @@
+body {
+
+	width: 800px;
+	margin: 4px;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 18px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: 400;
+	line-height: 28px;
+	background-color: black;
+	
+}
+
+header {
+	
+	padding:  50px 20px 20px 50px;
+	background-color: #cce6ff;
+
+}
+
+section {
+
+	padding: 50px 30px 50px 30px;
+	background-color: #3399ff;
+	color: #ffffff;
+
+}
+
+hr { 
+	display: block;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: inset;
+	border-width: 2px;
+}
+
+.strength {
+
+	text-shadow:5px 8px 1px rgba(158,158,158,1);
+	font-weight:normal;
+	color:#000000;
+	letter-spacing:4pt;
+	word-spacing:1pt;
+	font-size:45px;
+	text-align:left;
+	font-family:comic sans, comic sans ms, cursive, verdana, arial, sans-serif;
+	line-height:1;
+}
+
+.jawdrop {
+	
+	border-style: double;
+	border-width: 10px;
+
+}
+
+img {
+
+	height: 400px;
+
+}
+
+#general {
+
+	border: 15px solid #8b4513;
+  	padding: 10px;
+
+}
